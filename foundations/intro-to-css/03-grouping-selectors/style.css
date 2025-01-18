@@ -1,0 +1,14 @@
+.dark,
+.sun {
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+}
+
+.dark {
+    color: white;
+    background-color: black;
+}
+
+.sun {
+    background-color: yellow;
+}
